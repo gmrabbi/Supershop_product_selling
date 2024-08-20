@@ -1,0 +1,60 @@
+Customer ID,Date,Time,First Name,Last Name,Gender,Gmail Address,Phone Number,Country,Contact Later,Fruits,Peach,Total,state_address,street,Zip_Code
+220,2021-01-20,00:58:19,Patricia,White,Female,jeffrey06@example.net,130-209-33694,Panama,YES,"Pineapple,Grapes,Apple,Banana,Peach",2.5,8.5,Indiana, 5954 Vasquez Circles Suite 360, 99492
+125,2021-01-27,15:14:43,Richard,Martinez,Female,kristin09@example.org,717-722-82796,Kuwait,YES,"Cherry,Strawberry,Mango,Peach",2.4,8.2,Alaska, 843 Sherry Lane, 82136
+88,2021-02-01,08:46:43,Sandra,Thomas,Female,lcamacho@example.net,199-214-41682,Sweden,YES,Peach,2.5,2.5,West Virginia, , 
+131,2021-03-09,17:54:49,George,Collins,Female,phillipsrobert@example.net,479-490-29081,Korea,YES,"Cherry,Peach,Strawberry,Banana",1.4,6.6000000000000005,Louisiana, 5905 Lane Land Suite 235, 74027
+54,2021-03-11,04:09:42,Brian,Scott,Male,zgraham@example.net,956-173-02034,Israel,YES,"Peach,Pineapple",2.5,4.9,Vermont, 7684 Osborne Rest Apt. 322, 
+413,2021-06-02,04:35:47,Jessica,Turner,Female,hughesalejandro@example.org,639-727-24434,Lesotho,YES,"Pineapple,Cherry,Peach",2.5,6.6,Vermont, 1698 Gregory Valley Suite 803, 43223
+162,2021-06-07,09:40:01,George,Rodriguez,Male,marymiller@example.net,142-045-34586,Chad,YES,"Apple,Peach,Orange,Grapes,Cherry",2.2,8.7,Kentucky, 1611 Darrell Path Suite 572, 
+83,2021-07-08,05:15:24,Susan,Brown,Female,yhenry@example.org,318-818-28856,India,YES,"Strawberry,Orange,Peach,Banana",1.5,6.1,Alaska, , 03269
+34,2021-07-15,13:49:49,Steven,Allen,Male,jmarshall@example.net,983-874-26870,Hong Kong,YES,"Strawberry,Mango,Peach",2.1,6.800000000000001,Oregon, 923 Amanda Isle, 78387
+268,2021-08-22,09:24:38,Donna,Roberts,Male,nathaniel69@example.org,154-883-17516,Marshall Islands,YES,"Grapes,Peach,Blueberry,Cherry,Orange",1.7,8.5,New Jersey, 64174 Kelly Vista, 30802
+470,2021-09-16,21:34:34,Emily,Mitchell,Female,wilsonanne@example.org,853-460-18099,Solomon Islands,YES,"Mango,Peach,Orange,Grapes",2.3,8.5,Wyoming, 10551 Mitchell Haven, 38702
+233,2021-11-01,10:21:49,Sarah,Thompson,Male,stacy18@example.org,523-022-65435,Isle of Man,YES,"Apple,Peach,Pineapple",1.9,5.9,Vermont, 836 Cantrell Causeway Suite 846, 84887
+126,2021-11-25,20:17:10,Michelle,Lee,Male,jessica49@example.net,324-313-58649,Mauritania,YES,"Pineapple,Peach,Mango",1.3,4.9,Vermont, , 
+412,2021-11-28,22:11:03,Kimberly,Perez,Female,kyle52@example.org,208-679-82788,Hong Kong,YES,"Grapes,Peach,Blueberry",2.7,7.4,Indiana, , 
+121,2021-11-29,18:17:07,Michael,Taylor,Male,kyletaylor@example.org,012-324-35574,Timor-Leste,YES,"Cherry,Peach,Banana,Strawberry",1.2,7.0,Arkansas, 01482 Amanda Island Apt. 457, 90122
+446,2021-12-01,05:12:36,Dorothy,Mitchell,Female,freed@example.com,362-683-42210,Bermuda,YES,"Cherry,Peach",2.3,3.6,Nebraska, , 86433
+279,2021-12-01,19:41:11,Elizabeth,Adams,Female,donna71@example.org,672-841-00004,Greenland,YES,"Apple,Blueberry,Peach,Mango,Pineapple",2.1,10.2,New Mexico, , 58019
+191,2022-01-27,02:25:13,Daniel,Turner,Female,stevenhenry@example.net,195-006-29452,United States of America,YES,"Apple,Peach,Blueberry",1.6,6.0,North Carolina, , 25785
+397,2022-01-30,23:10:39,Kimberly,Harris,Male,mmcmahon@example.net,211-636-43234,Palestinian Territory,YES,"Peach,Strawberry,Apple",1.9,5.9,Alaska, 92345 Fox Row Suite 880, 84318
+130,2022-02-11,02:00:47,Amanda,Martin,Male,lmarsh@example.org,263-039-17547,Isle of Man,YES,"Peach,Banana,Grapes,Mango",1.6,7.7,Tennessee, , 10870
+435,2022-02-21,13:18:26,Brian,Smith,Male,ksanchez@example.com,326-396-90210,Ghana,YES,"Orange,Blueberry,Peach",2.3,6.0,South Carolina, 4453 Schultz Station Apt. 027, 
+488,2022-02-28,16:16:34,Dorothy,Campbell,Male,leejerry@example.net,415-001-27908,Moldova,YES,"Peach,Grapes",2.7,4.7,Mississippi, 478 Porter Crossroad, 
+286,2022-03-03,18:11:33,Richard,Perez,Female,ccoleman@example.org,123-246-10723,Mauritania,YES,"Blueberry,Strawberry,Peach,Orange",2.5,7.9,Colorado, 63829 Gerald Rapid, 27143
+175,2022-03-07,11:10:23,Lisa,Anderson,Female,xcherry@example.org,417-837-31107,Mauritius,YES,Peach,2.1,2.1,Maryland, 369 Mckenzie Well Apt. 651, 26793
+252,2022-03-09,23:42:39,Amanda,Nelson,Female,brian97@example.net,718-970-99677,Philippines,YES,"Orange,Strawberry,Peach,Banana,Apple",1.5,8.4,Mississippi, , 24185
+69,2022-03-24,08:41:17,Patricia,King,Male,daniellozano@example.org,079-891-30811,Turkey,YES,"Blueberry,Peach",2.2,4.5,Alaska, 22906 Rebecca Mission, 
+123,2022-03-30,09:57:09,William,Mitchell,Female,omcclain@example.net,531-260-25428,Papua New Guinea,YES,"Banana,Peach",2.0,3.8,Mississippi, 379 John Bridge, 73012
+101,2022-04-03,07:02:11,Donna,Thomas,Female,logan92@example.com,410-341-43574,Honduras,YES,"Orange,Mango,Peach",2.5,7.0,Arizona, 08518 Miller Mills Apt. 141, 23401
+154,2022-08-23,01:55:07,Kevin,Smith,Male,glenntaylor@example.net,451-260-52830,India,YES,"Apple,Pineapple,Strawberry,Cherry,Peach",1.5,8.6,Vermont, 3704 Singh Path Apt. 673, 55306
+35,2022-10-16,23:04:43,Paul,Campbell,Male,juanandrews@example.org,934-296-21722,Bhutan,YES,"Peach,Apple,Banana,Cherry",2.5,9.1,Indiana, 156 Nancy Spring, 64625
+305,2022-11-16,04:49:10,Paul,Jackson,Female,michaelwilliams@example.net,959-017-31214,Seychelles,YES,"Grapes,Cherry,Strawberry,Pineapple,Peach",2.4,10.1,Kentucky, 6589 Gail Cove Suite 159, 31089
+239,2022-11-22,01:54:09,Emily,Roberts,Male,daniel48@example.com,545-156-72181,Zambia,YES,"Peach,Cherry,Orange",2.7,6.1,Nevada, 66925 Geoffrey Lodge Apt. 752, 27070
+312,2023-01-31,08:23:09,Sarah,White,Male,ppaul@example.net,592-852-04078,Haiti,YES,"Blueberry,Peach,Pineapple,Cherry,Strawberry",1.8,10.1,Oregon, 56110 Johnson Springs, 59085
+137,2023-03-09,16:58:52,Donald,Robinson,Male,kirkoconnor@example.net,835-142-08929,Suriname,YES,"Banana,Cherry,Apple,Peach",1.5,7.1,Colorado, 82605 Garza Station Suite 189, 
+187,2023-03-11,16:08:30,Donna,Hernandez,Male,gregory42@example.net,104-504-38130,Serbia,YES,"Peach,Mango,Banana,Pineapple",1.7,7.699999999999999,South Dakota, 52812 Luna Greens, 36018
+216,2023-04-15,23:29:07,Christopher,Roberts,Male,howardjoseph@example.net,758-876-53502,Antarctica (the territory South of 60 deg S),YES,"Orange,Peach,Apple,Strawberry",2.2,7.4,Oklahoma, 097 Linda Loop Suite 034, 36244
+304,2023-06-24,16:50:10,Joseph,Adams,Female,kristina84@example.org,664-943-30452,Kenya,YES,"Grapes,Mango,Orange,Peach",2.0,7.699999999999999,Hawaii, 515 Fields Roads Apt. 192, 
+235,2023-07-20,18:29:12,Linda,King,Female,richardalexander@example.org,225-202-05292,Uruguay,YES,"Pineapple,Banana,Peach,Cherry",1.3,7.6,New Jersey, 27465 Christopher Mills Suite 121, 72494
+384,2023-08-05,01:16:05,Brian,Wilson,Male,kimberlyhall@example.org,628-219-35252,El Salvador,YES,"Strawberry,Peach,Pineapple,Cherry",2.0,9.2,North Dakota, 588 Cross Mills Suite 791, 64504
+28,2023-08-28,06:14:43,George,Lewis,Male,pellis@example.org,854-492-79469,Kazakhstan,YES,"Apple,Mango,Strawberry,Peach",2.5,7.8,Utah, , 80993
+177,2023-09-13,15:31:40,Mark,Roberts,Male,stephen01@example.com,830-392-90355,Paraguay,YES,"Blueberry,Mango,Peach,Grapes,Banana",2.2,9.6,Washington, , 96306
+5,2023-10-27,23:31:40,Elizabeth,Jackson,Male,caroline66@example.net,666-914-70647,Aruba,YES,"Strawberry,Banana,Apple,Peach,Cherry",2.1,8.799999999999999,Ohio, 9506 Charles Via Suite 840, 
+168,2023-12-05,06:41:43,Paul,Harris,Male,vcole@example.com,414-089-42348,Mozambique,YES,"Peach,Apple,Grapes,Strawberry,Blueberry",1.9,8.999999999999998,New Mexico, 9453 Conley Ports Apt. 905, 62701
+143,2023-12-10,15:54:35,James,Young,Male,briggs@example.com,648-647-81473,Monaco,YES,"Blueberry,Banana,Strawberry,Apple,Peach",2.3,9.8,Nebraska, 714 William Drives Suite 212, 43371
+498,2023-12-23,20:29:47,Linda,Jackson,Female,jonathan11@example.org,869-943-27260,Netherlands Antilles,YES,"Cherry,Peach,Apple,Pineapple",2.7,8.3,Virginia, 069 Lauren Ways, 44018
+427,2024-02-16,01:32:04,Matthew,Robinson,Male,marquezlauren@example.com,896-861-42585,Norfolk Island,YES,Peach,2.6,2.6,New Hampshire, , 85181
+296,2024-02-16,13:53:10,Lisa,Martin,Female,hudsoncassandra@example.net,479-627-45435,Somalia,YES,"Cherry,Orange,Peach,Mango",1.8,7.9,Mississippi, 492 Tammy Road, 
+447,2024-02-28,00:51:00,Karen,Anderson,Male,crawfordwilliam@example.com,378-908-73504,Belarus,YES,"Pineapple,Cherry,Peach,Strawberry,Mango",1.9,10.400000000000002,Utah, 01117 Audrey Pines Suite 152, 23035
+306,2024-03-09,05:16:32,Donald,Baker,Female,fwheeler@example.net,153-394-36007,Botswana,YES,"Peach,Strawberry,Orange,Cherry,Grapes",1.6,9.6,Connecticut, 3605 Scott Green Suite 586, 
+212,2024-04-26,19:59:15,Robert,Perez,Male,wandamack@example.com,397-141-56924,Croatia,YES,"Orange,Strawberry,Cherry,Peach",1.5,8.6,Oregon, 52363 Brandi Drive, 73129
+433,2024-06-10,15:48:53,Kevin,King,Female,michelevillanueva@example.net,330-317-45725,Congo,YES,"Pineapple,Cherry,Apple,Peach,Orange",2.6,9.4,Iowa, 1460 French Radial, 
+118,2024-06-14,00:32:03,Brian,Thompson,Female,cfoster@example.org,684-818-28519,Palestinian Territory,YES,"Banana,Peach,Orange",1.6,5.6,Oregon, 10548 Felicia Route Apt. 439, 37370
+20,2024-08-16,21:52:05,Jennifer,King,Male,phicks@example.com,302-347-81127,Palestinian Territory,YES,"Peach,Orange",1.9,4.199999999999999,Tennessee, , 98804
+401,2024-09-29,12:52:46,Lisa,Williams,Male,hernandezjoshua@example.org,504-598-35899,Bahamas,YES,"Orange,Peach",2.4,4.5,Michigan, 16874 Zavala Prairie Apt. 200, 23482
+297,2024-09-29,15:00:43,Kevin,Phillips,Female,tuckerdouglas@example.com,162-148-39898,Chile,YES,Peach,1.4,1.4,North Carolina, 5561 Kyle Via Suite 777, 55447
+345,2024-10-18,19:01:12,Matthew,Walker,Male,rita69@example.net,213-932-26321,Cyprus,YES,"Banana,Apple,Cherry,Peach,Strawberry",1.5,9.3,Pennsylvania, , 55329
+92,2024-10-26,06:44:40,Paul,Evans,Female,alan48@example.com,335-464-42874,Swaziland,YES,"Blueberry,Grapes,Peach",2.0,6.5,Vermont, , 01944
+53,2024-11-29,03:48:51,Amanda,Robinson,Male,william71@example.net,698-068-30240,Montenegro,YES,"Peach,Strawberry,Mango,Blueberry",1.7,8.2,Mississippi, 7278 Michael Well, 35914
+457,2024-12-08,00:03:13,Nancy,Martinez,Female,alvarezholly@example.com,370-778-60624,Saint Martin,YES,"Mango,Peach,Banana,Pineapple",1.9,8.0,Illinois, 2618 Carter Brook, 09199

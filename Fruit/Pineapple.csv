@@ -1,0 +1,72 @@
+Customer ID,Date,Time,First Name,Last Name,Gender,Gmail Address,Phone Number,Country,Contact Later,Fruits,Pineapple,Total,state_address,street,Zip_Code
+254,2021-01-19,19:01:01,Melissa,Parker,Female,kellihamilton@example.com,408-979-06475,Turkey,YES,"Apple,Banana,Strawberry,Cherry,Pineapple",2.1,9.8,Maine, 8601 Bryan Brook, 09103
+220,2021-01-20,00:58:19,Patricia,White,Female,jeffrey06@example.net,130-209-33694,Panama,YES,"Pineapple,Grapes,Apple,Banana,Peach",1.7,8.5,Indiana, 5954 Vasquez Circles Suite 360, 99492
+329,2021-01-25,07:05:51,Kevin,Hall,Male,nicolejimenez@example.com,959-021-36566,Australia,YES,"Mango,Pineapple,Apple",1.4,5.0,Nevada, , 42184
+460,2021-01-26,00:26:55,Brian,Harris,Female,geoffrey67@example.org,573-873-29304,Guinea-Bissau,YES,"Mango,Pineapple",1.2,3.1,West Virginia, 350 Megan Orchard Suite 913, 76065
+436,2021-01-31,05:02:49,Linda,Wright,Female,zacharythomas@example.com,466-603-16494,Malawi,YES,Pineapple,1.2,1.2,South Carolina, 7006 Campbell Junction, 02865
+54,2021-03-11,04:09:42,Brian,Scott,Male,zgraham@example.net,956-173-02034,Israel,YES,"Peach,Pineapple",2.4,4.9,Vermont, 7684 Osborne Rest Apt. 322, 
+24,2021-03-19,16:45:31,Margaret,Taylor,Male,rodriguezjohn@example.net,342-540-80756,Croatia,YES,Pineapple,1.8,1.8,Colorado, , 73470
+432,2021-03-24,05:47:29,Linda,Carter,Male,xsanders@example.org,877-770-10111,Mali,YES,"Pineapple,Orange,Strawberry,Grapes",2.4,7.799999999999999,New Jersey, 239 Salazar Drive, 08374
+276,2021-05-01,11:47:12,Barbara,White,Female,pjackson@example.net,811-739-68191,Egypt,YES,"Grapes,Cherry,Pineapple",2.1,5.800000000000001,Mississippi, , 26740
+192,2021-05-08,02:05:01,Kevin,Martin,Female,melanie48@example.com,599-745-47236,Sao Tome and Principe,YES,"Pineapple,Blueberry,Orange",1.2,4.4,Missouri, 64878 Brandon Island, 80375
+413,2021-06-02,04:35:47,Jessica,Turner,Female,hughesalejandro@example.org,639-727-24434,Lesotho,YES,"Pineapple,Cherry,Peach",2.5,6.6,Vermont, 1698 Gregory Valley Suite 803, 43223
+43,2021-07-09,10:12:07,Daniel,Johnson,Male,joserobertson@example.org,939-799-75446,Slovakia (Slovak Republic),YES,Pineapple,1.5,1.5,Mississippi, 8307 Patrick Inlet, 63125
+46,2021-07-31,16:38:16,Brian,Lewis,Female,kimjones@example.net,838-438-41120,Ecuador,YES,"Pineapple,Mango,Blueberry,Apple,Strawberry",2.7,9.5,Minnesota, 99198 Bethany Lights Apt. 000, 09190
+183,2021-09-06,00:20:34,Brian,Thompson,Male,butlergregory@example.net,540-935-90071,Gambia,YES,"Grapes,Pineapple,Strawberry",1.9,6.699999999999999,Rhode Island, 1687 Shawn Lakes Apt. 699, 38582
+190,2021-09-07,20:51:54,Dorothy,Martin,Male,ocollier@example.org,354-056-14098,Bangladesh,YES,Pineapple,1.9,1.9,Rhode Island, , 
+380,2021-09-14,04:42:40,Anthony,Hall,Female,millergabriella@example.com,774-689-57861,Togo,YES,"Pineapple,Strawberry,Grapes,Apple,Blueberry",2.2,10.5,Wisconsin, 484 Garcia Via, 70602
+117,2021-09-27,10:29:17,Lisa,Baker,Female,ericspencer@example.org,237-252-87108,American Samoa,YES,Pineapple,1.9,1.9,Vermont, 4917 Cruz Street, 88059
+185,2021-10-15,23:37:01,William,Williams,Female,rogerandrews@example.org,154-724-28320,United States of America,YES,"Pineapple,Orange",2.6,4.2,Rhode Island, , 48139
+233,2021-11-01,10:21:49,Sarah,Thompson,Male,stacy18@example.org,523-022-65435,Isle of Man,YES,"Apple,Peach,Pineapple",2.4,5.9,Vermont, 836 Cantrell Causeway Suite 846, 84887
+126,2021-11-25,20:17:10,Michelle,Lee,Male,jessica49@example.net,324-313-58649,Mauritania,YES,"Pineapple,Peach,Mango",1.8,4.9,Vermont, , 
+279,2021-12-01,19:41:11,Elizabeth,Adams,Female,donna71@example.org,672-841-00004,Greenland,YES,"Apple,Blueberry,Peach,Mango,Pineapple",1.6,10.2,New Mexico, , 58019
+347,2021-12-02,15:42:29,Lisa,Wright,Female,froach@example.net,653-615-12433,Slovenia,YES,"Grapes,Strawberry,Cherry,Pineapple,Apple",2.1,9.3,North Carolina, , 63748
+263,2022-01-06,11:34:08,Mary,Parker,Female,daniel19@example.com,068-122-37117,Heard Island and McDonald Islands,YES,"Mango,Cherry,Pineapple,Banana,Apple",1.9,9.7,Missouri, 575 Holmes Shores Suite 670, 
+500,2022-02-13,19:51:34,William,Rodriguez,Female,sandramcdaniel@example.net,506-617-37287,New Zealand,YES,"Strawberry,Apple,Pineapple,Orange",1.6,7.699999999999999,Kentucky, , 68970
+77,2022-05-07,09:58:53,Andrew,Taylor,Male,fmccann@example.org,914-923-40660,Kiribati,YES,"Pineapple,Grapes,Cherry,Strawberry",1.6,8.100000000000001,Arizona, , 
+467,2022-05-26,12:05:47,Elizabeth,King,Male,marksdylan@example.net,833-644-14965,Tajikistan,YES,"Pineapple,Banana,Strawberry",2.2,6.1,Arkansas, 544 Bradshaw Forge Suite 120, 31039
+148,2022-06-11,10:09:08,Kevin,Perez,Male,warrencharles@example.org,763-169-90435,Liechtenstein,YES,"Orange,Blueberry,Pineapple,Grapes,Apple",1.7,10.4,Delaware, 882 Brian Mountains, 52791
+184,2022-07-12,04:09:00,Lisa,Parker,Male,jmcclure@example.net,548-159-71627,Martinique,YES,"Mango,Banana,Orange,Grapes,Pineapple",1.8,8.9,South Dakota, 5265 Rebecca Orchard, 48313
+360,2022-07-25,16:24:05,Christopher,Scott,Male,robert74@example.net,389-015-66387,United States Virgin Islands,YES,"Pineapple,Apple",2.5,5.1,Minnesota, , 66747
+448,2022-08-07,09:52:56,Carol,White,Female,christineshannon@example.com,735-499-54173,Pakistan,YES,"Mango,Pineapple",2.6,5.300000000000001,Utah, 597 Nicholson Flats, 
+154,2022-08-23,01:55:07,Kevin,Smith,Male,glenntaylor@example.net,451-260-52830,India,YES,"Apple,Pineapple,Strawberry,Cherry,Peach",2.2,8.6,Vermont, 3704 Singh Path Apt. 673, 55306
+23,2022-10-08,00:58:19,David,Baker,Female,hbeasley@example.org,000-818-04847,Barbados,YES,"Pineapple,Mango",2.1,3.6,Mississippi, 906 Williams Roads, 26901
+132,2022-11-15,09:27:58,Nancy,Miller,Female,heatherrhodes@example.net,073-063-85615,Samoa,YES,"Pineapple,Orange,Strawberry",2.4,5.5,North Carolina, , 70263
+305,2022-11-16,04:49:10,Paul,Jackson,Female,michaelwilliams@example.net,959-017-31214,Seychelles,YES,"Grapes,Cherry,Strawberry,Pineapple,Peach",2.2,10.1,Kentucky, 6589 Gail Cove Suite 159, 31089
+358,2022-12-04,15:09:49,Kimberly,Jones,Female,williamreeves@example.com,920-053-09843,Iraq,YES,"Cherry,Mango,Pineapple,Orange,Strawberry",2.5,9.9,Illinois, 2699 Derek Passage Suite 274, 74986
+312,2023-01-31,08:23:09,Sarah,White,Male,ppaul@example.net,592-852-04078,Haiti,YES,"Blueberry,Peach,Pineapple,Cherry,Strawberry",2.2,10.1,Oregon, 56110 Johnson Springs, 59085
+390,2023-02-05,13:40:15,Richard,Perez,Female,gordonliu@example.com,177-857-86323,Moldova,YES,"Pineapple,Grapes,Mango",1.9,5.9,Oklahoma, 131 Arnold Orchard Suite 768, 76985
+491,2023-02-06,06:08:49,Nancy,Perez,Female,howardlara@example.com,238-951-11099,Qatar,YES,Pineapple,1.6,1.6,Delaware, , 44663
+187,2023-03-11,16:08:30,Donna,Hernandez,Male,gregory42@example.net,104-504-38130,Serbia,YES,"Peach,Mango,Banana,Pineapple",1.5,7.699999999999999,South Dakota, 52812 Luna Greens, 36018
+45,2023-03-31,02:59:00,Daniel,Smith,Male,pearsonlisa@example.org,644-172-99471,South Georgia and the South Sandwich Islands,YES,"Pineapple,Grapes",2.1,4.5,Pennsylvania, 312 Ray Circle, 72411
+1,2023-04-25,16:35:06,Christopher,Turner,Male,rpayne@example.net,579-830-76270,Iceland,YES,"Apple,Banana,Pineapple",2.3,6.1,Texas, 8184 Soto Trail Suite 117, 58052
+426,2023-05-15,22:35:20,Charles,Lopez,Female,ericpatterson@example.net,428-173-81624,Thailand,YES,"Pineapple,Banana,Grapes,Cherry",2.5,8.2,Kentucky, , 91174
+57,2023-06-08,03:04:57,Mary,Edwards,Male,tdavis@example.net,074-382-91509,Saint Vincent and the Grenadines,YES,"Pineapple,Orange",2.6,4.7,Kansas, , 
+410,2023-06-28,19:20:08,Nancy,Turner,Male,buchananmichael@example.net,492-041-18758,Guadeloupe,YES,"Grapes,Pineapple,Strawberry",2.0,6.300000000000001,Massachusetts, 9649 Christopher Isle Apt. 663, 17882
+235,2023-07-20,18:29:12,Linda,King,Female,richardalexander@example.org,225-202-05292,Uruguay,YES,"Pineapple,Banana,Peach,Cherry",2.7,7.6,New Jersey, 27465 Christopher Mills Suite 121, 72494
+384,2023-08-05,01:16:05,Brian,Wilson,Male,kimberlyhall@example.org,628-219-35252,El Salvador,YES,"Strawberry,Peach,Pineapple,Cherry",2.5,9.2,North Dakota, 588 Cross Mills Suite 791, 64504
+289,2023-08-15,00:07:26,Steven,Collins,Male,wolfjesse@example.org,890-489-84321,Azerbaijan,YES,"Pineapple,Mango,Apple,Cherry",1.9,9.0,New Mexico, 552 Smith Mountain, 58088
+349,2023-08-31,01:46:42,Robert,Mitchell,Female,kirkbrian@example.net,773-235-04010,Indonesia,YES,"Pineapple,Strawberry,Orange",1.4,6.0,New York, , 08043
+4,2023-09-02,20:31:51,Barbara,Young,Female,shawn89@example.net,968-667-32593,Moldova,YES,"Banana,Cherry,Mango,Pineapple",2.6,9.0,Nevada, 8491 Stone Lakes, 51243
+149,2023-10-07,21:36:08,John,Lewis,Female,meghanjacobs@example.com,840-819-76534,Colombia,YES,"Orange,Strawberry,Banana,Pineapple,Apple",2.4,10.7,North Dakota, , 61767
+396,2023-12-05,09:12:44,Nancy,Young,Male,aaronmoreno@example.org,624-931-67920,Comoros,YES,"Pineapple,Cherry",2.4,4.5,Louisiana, 3226 Evan Prairie Apt. 734, 62580
+498,2023-12-23,20:29:47,Linda,Jackson,Female,jonathan11@example.org,869-943-27260,Netherlands Antilles,YES,"Cherry,Peach,Apple,Pineapple",2.2,8.3,Virginia, 069 Lauren Ways, 44018
+382,2024-01-06,04:14:06,Melissa,Adams,Male,hmcdowell@example.com,443-375-35685,Sierra Leone,YES,"Pineapple,Strawberry",1.4,4.0,Rhode Island, 60017 Santana Ports, 99353
+226,2024-02-04,13:49:45,William,Davis,Male,xwalker@example.com,102-237-32111,Aruba,YES,"Pineapple,Blueberry,Cherry,Strawberry,Orange",1.7,9.4,Pennsylvania, 9859 Myers View Apt. 156, 
+225,2024-02-16,22:32:08,Andrew,Carter,Male,ohouse@example.net,330-032-69457,Yemen,YES,"Cherry,Orange,Blueberry,Pineapple,Grapes",2.6,10.2,Pennsylvania, , 
+447,2024-02-28,00:51:00,Karen,Anderson,Male,crawfordwilliam@example.com,378-908-73504,Belarus,YES,"Pineapple,Cherry,Peach,Strawberry,Mango",2.6,10.400000000000002,Utah, 01117 Audrey Pines Suite 152, 23035
+477,2024-03-04,21:25:36,Matthew,Rodriguez,Female,frenchemma@example.org,938-212-09626,Rwanda,YES,"Blueberry,Cherry,Mango,Pineapple",2.4,9.1,Washington, , 19502
+400,2024-03-14,01:26:23,Sarah,Rodriguez,Female,craiggary@example.org,909-661-35341,Romania,YES,"Grapes,Pineapple",2.0,4.4,Minnesota, , 45909
+201,2024-04-03,11:22:52,Matthew,Roberts,Female,brendaclayton@example.net,290-286-24426,Korea,YES,"Apple,Pineapple",1.9,3.7,Missouri, 248 Bonnie Trail Apt. 786, 52693
+106,2024-04-21,17:50:41,James,Walker,Female,millernicholas@example.org,111-394-89057,Nigeria,YES,"Pineapple,Grapes",2.3,3.6,Oregon, 945 Jefferson Oval, 81758
+146,2024-04-28,09:41:32,Elizabeth,Campbell,Male,smyers@example.com,654-423-05876,Ukraine,YES,"Cherry,Grapes,Pineapple,Apple",2.3,7.6,Alaska, 9564 Forbes Lane Apt. 537, 
+433,2024-06-10,15:48:53,Kevin,King,Female,michelevillanueva@example.net,330-317-45725,Congo,YES,"Pineapple,Cherry,Apple,Peach,Orange",1.2,9.4,Iowa, 1460 French Radial, 
+47,2024-06-22,16:14:25,Andrew,Brown,Male,david53@example.com,106-324-29476,Antigua and Barbuda,YES,"Grapes,Strawberry,Blueberry,Cherry,Pineapple",1.4,8.4,Nevada, 14322 Mitchell Forges Apt. 254, 
+295,2024-07-13,15:25:58,Sandra,Thompson,Female,andersonjohn@example.org,430-884-07453,Ukraine,YES,"Apple,Orange,Mango,Pineapple,Blueberry",2.5,9.1,North Dakota, 61913 Mathews Port, 07747
+350,2024-09-15,01:27:09,Christopher,Carter,Female,egarcia@example.com,792-833-49230,Antarctica (the territory South of 60 deg S),YES,"Banana,Grapes,Strawberry,Pineapple",2.5,7.6,Kansas, , 91387
+151,2024-10-09,12:06:10,Kenneth,Phillips,Female,karen15@example.net,411-149-03980,Taiwan,YES,"Grapes,Cherry,Pineapple,Blueberry,Apple",1.9,9.6,Maryland, 5181 Julian Overpass, 
+49,2024-10-20,11:22:05,Kenneth,Jackson,Male,gbenson@example.org,749-431-04580,Korea,YES,"Orange,Grapes,Pineapple,Strawberry",1.2,6.199999999999999,Indiana, 23673 Brown Lane, 81844
+174,2024-11-24,10:48:35,Daniel,Lewis,Female,nhoward@example.org,494-173-77032,Lithuania,YES,"Strawberry,Pineapple",2.5,4.7,Illinois, , 
+145,2024-11-28,15:45:05,Karen,White,Male,huntsue@example.net,162-509-13812,Tuvalu,YES,"Apple,Pineapple,Grapes",1.8,6.1,Michigan, 35787 Richard Center, 48494
+457,2024-12-08,00:03:13,Nancy,Martinez,Female,alvarezholly@example.com,370-778-60624,Saint Martin,YES,"Mango,Peach,Banana,Pineapple",2.1,8.0,Illinois, 2618 Carter Brook, 09199
+93,2024-12-29,13:46:56,Matthew,Hernandez,Female,alyssablack@example.org,028-217-02531,Myanmar,YES,"Blueberry,Pineapple,Apple,Strawberry",2.1,8.2,Arkansas, 785 Harris Bypass, 68019
