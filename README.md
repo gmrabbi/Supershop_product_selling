@@ -53,6 +53,12 @@ By analyzing customers' previous buying data, we can identify products with poor
 - ![Apple country VS Fruit](https://github.com/user-attachments/assets/641df486-5957-4b2b-be71-c4cbd3dc2589)
 - ![Banana country VS Fruit](https://github.com/user-attachments/assets/45d82b24-667d-4583-9e07-9b69496e3b20)
 
+### Country VS Height price
+- Bar plots were created to visualize how different Price the fruits are sold across various countries.
+- ![Mango country VS height price](https://github.com/user-attachments/assets/757d24c4-804a-47f5-90e0-c55f46ba66df)
+- ![Orange country VS height price](https://github.com/user-attachments/assets/569025ea-4e6f-4cd8-b0f3-36a0c581c6c5)
+
+
 
 ### Male and Female Count per Fruit
 - A bar chart was created to count the number of males and females who purchased each fruit.
